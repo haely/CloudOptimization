@@ -4,43 +4,23 @@ This document provides an overview of AWS and GCP services, focusing on how cost
 
 ## AWS (Amazon Web Services)
 
-- [EC2 (Elastic Compute Cloud)](#aws-ec2)
-- [S3 (Simple Storage Service)](#aws-s3)
+- [Compute Instances, EC2](#compute-instances-or-aws-ec2)
+- [GCS, S3](#google-cloud-storage-or-aws-s3)
+- [Cloud functions, Lambda](#cloud-functions-or-aws-lambda)
 
-## GCP (Google Cloud Platform)
-
-- [VM (Virtual Machine compute instancea)](#gcp-vm)
-- [GCS (Google Cloud Storage)](#gcs-storage)
 
 
 ---
 
-## AWS EC2
-
-### EC2 Overview/Intended Use
+## Compute Instances or AWS EC2
 
 ### Intended Use
 ### Cost breakdown
 ### Best Practices
 
-## AWS S3
+## Google Cloud Storage or AWS S3
 
-### Intended Use
-### Cost breakdown
-### Best Practices
-
-
----
-
-## GCP VM
-
-### Intended Use
-### Cost breakdown
-### Best Practices
-
-
-## GCS Storage
-Google Cloud storage
+Google Cloud storage, AWS S3 Buckets
 ### Intended Use
 Object/Log storage, DXata archive/backup
 ### Cost breakdown
@@ -53,5 +33,12 @@ Object/Log storage, DXata archive/backup
 2. Data Deletion - Delete data which won't be used in the future.
 3. AutoClass - Moves objects to the appropriate tiers, additional costs fr management
 4. Object compression and caching for frquently used data
-   
+
 ### Common commands
+
+
+## Cloud Functions or AWS Lambda
+
+### Intended Use
+### Cost breakdown
+### Best Practices

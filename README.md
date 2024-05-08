@@ -27,7 +27,7 @@ Clean up = a full clean up. Under the table, behind the curtains, in the garage 
 1. Choose the right instance type for your needs (don't overpay for more power than you need).
 2. Use Auto Scaling to automatically adjust capacity based on demand.
 3. Terminate unused instances to avoid unnecessary costs.
-4. Check periodically if firecasted usage needs to be updated.
+4. Check periodically if forecasted usage needs to be updated.
 
 ## Google Cloud Storage or AWS S3
 
